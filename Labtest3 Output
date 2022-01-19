@@ -1,0 +1,18 @@
+Enter word 1:
+hello
+Enter word 2:
+world
+Enter word 3:
+hello
+Enter word 4:
+germany
+Enter word 5:
+hello
+Enter word 6:
+berlin
+ The number of words is = 6
+ The final Count is:
+ hello, 3
+ world, 1
+ germany, 1
+ berlin, 1
